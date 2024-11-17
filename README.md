@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development where both front-end and back-end mets, I do many projects in both java and python a web-based projects by using Frameworks--> SpringBoot and Django.
 - 🌱 I’m currently learning about the database concepts in relational database MySql and Sql and also I pursuing learning about MongoDB to explore the variations and gaining knowledge , making me a flexible programmer.  
 - 💞️ I’m looking to collaborate on full stack development where i need to get more pratical knowledge to group with teammates and make a optimal solution possible by teamwork and adoptability.
-- 📫 You can reach me by, LinkedIn where I more engaged and also in Github you can follow me and connect to collabrate with more works that i love to work with, and mail me @ deivaprasanth005@gmail.com.
+- 📫 You can reach me by, LinkedIn where I more engaged www.linkedin.com/in/deivaprasanth and also in Github you can follow me and connect to collabrate with more works that i love to work with, and mail me @ deivaprasanth005@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
